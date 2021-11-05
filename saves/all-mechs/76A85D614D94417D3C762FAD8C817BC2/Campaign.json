@@ -1,0 +1,28 @@
+{
+	"Name": "Nik's Cavaliers",
+	"GameDate": "3015.07.26-14.00.00",
+	"LastSaveDate": "2021.11.05-03.52.37",
+	"Reputation": 90,
+	"LastSaveFileName": "CF2D9CB2413CAFE356C96A8BD5295D19",
+	"StartConditionId": "MWStartConditionsAsset:MainCampaign_StartConditionsAsset",
+	"MercCompanyIconId": "",
+	"Saves": [
+		{
+			"SaveFileName": "CF2D9CB2413CAFE356C96A8BD5295D19",
+			"Name": "Name Your Company",
+			"GameDate": "3015.07.26-14.00.00",
+			"GameTimeElapsed": 51840000000000,
+			"TimePlayedInSeconds": 5557,
+			"ReputationLevel": 2,
+			"Reputation": 90,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:A1_M4_EstablishCompany",
+			"StarSystemName": "De Berry",
+			"bMultiplayerEnabled": false,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		}
+	]
+}
